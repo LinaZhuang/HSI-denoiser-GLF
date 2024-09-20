@@ -5,9 +5,13 @@ The code and data herein distributed reproduce the results published in
  the paper 
 
  Lina Zhuang and Jose M. Bioucas-Dias, "Hyperspectral image denoising 
+ based on global and non-local low-rank factorizations", 
+ IEEE Transactions on Geoscience and Remote Sensing, 2021.
+ URL: https://ieeexplore.ieee.org/document/9318519
+ 
+ Lina Zhuang and Jose M. Bioucas-Dias, "Hyperspectral image denoising 
  based on global and non-local low-rank factorizations",  IEEE 
  International Conference on Image Processing, Sep. 2017.
-
  URL: https://www.it.pt/Publications/DownloadPaperConference/30727
 
 
